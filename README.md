@@ -1,5 +1,3 @@
-# Dani Roxberry ([@droxey](https://github.com/droxey))
-
 <p align="center">🚧 07/19/2020 - Work in Progress 🚧</p>
 
 <!--
