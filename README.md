@@ -2,7 +2,7 @@
   <img align="left" src="https://droxey.com/statics/img/logo-large@1x.png" width="100">
 </a>
 <a href="https://github.com/droxey" target="_blank">
-  <img align="left" width="500" src="https://github-readme-stats-droxey.vercel.app/api?username=droxey&show_icons=true&hide=issues,prs&hide_title=true">
+  <img align="left" width="500" src="https://github-readme-stats-droxey.vercel.app/api?username=droxey&show_icons=true&hide=issues,prs&hide_title=true&theme=tokyonight">
 </a>
 
 <!--
