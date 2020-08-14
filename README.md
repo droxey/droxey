@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://droxey.com" target="_blank">
-      <img src="https://droxey.com/statics/img/logo-large@1x.png" alt="@droxey's avatar" width="200">
+      <img src="https://droxey.com/statics/img/logo-large@1x.png" alt="@droxey's avatar" width="100">
   </a>
 </p>
 
