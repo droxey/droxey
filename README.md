@@ -2,6 +2,7 @@
   <a href="https://droxey.com" target="_blank">
       <img src="https://droxey.com/statics/img/logo-large@1x.png" alt="@droxey's avatar" width="100">
   </a>
+  <figure><embed src="https://wakatime.com/share/@droxey/ecfde6dc-5ffd-4e8f-baf2-191a8f313710.svg"></embed></figure>
 </p>
 
 <!--
