@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://droxey.com" target="_blank">
-      <img src="https://droxey.com/statics/img/logo-large@1x.png" alt="@droxey's avatar" width="100">
+  <a href="https://wakatime.com/@droxey" title="⏰ WakaTime: @droxey" target="_blank">
+     <img src="https://wakatime.com/share/@droxey/486b0471-4275-4f42-bdfc-42efb448b222.png" width="60%">
   </a>
-  <figure><embed src="https://wakatime.com/share/@droxey/ecfde6dc-5ffd-4e8f-baf2-191a8f313710.svg"></embed></figure>
 </p>
-
 <!--
 
 ### Hi there 👋
