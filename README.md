@@ -1,23 +1,3 @@
-### Hi there 👋
-
-<p align="center">
-  <a href="https://wakatime.com/@droxey" title="⏰ WakaTime: @droxey" target="_blank">
-     <img src="https://wakatime.com/share/@droxey/486b0471-4275-4f42-bdfc-42efb448b222.png" width="60%">
-  </a>
-</p>
-<!--
-
-### Hi there 👋
-**droxey/droxey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![github](https://img.shields.io/github/followers/droxey?logo=github&style=plastic)](https://github.com/droxey?tab=followers)
+[![twitter](https://img.shields.io/twitter/follow/droxey?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/droxey)
+[![wakatime](https://wakatime.com/badge/user/fc0b994f-1296-4c11-84d2-ef002f08d9be.svg)](https://wakatime.com/@fc0b994f-1296-4c11-84d2-ef002f08d9be)
