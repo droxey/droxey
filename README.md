@@ -5,13 +5,14 @@
 >
 > 💬 Frederick P. Brooks
 
-# 👋 Dani Roxberry
+## 👋 Dani Roxberry
 
-## 👩‍🏫 Instructor, Applied Computer Science
-    - Teaching at Dominican University of California
-    - Complete your BSCS degree in under 3 years! Learn more at [dominican.edu](dominican.edu)
-    - 100% of our course materials are Open Source: [@Tech-at-DU](https://github.com/tech-at-DU)
-## 👩‍💻 Inventor & Innovator
-    - 2015 patent introducing interactive live streaming to the world: <https://bit.ly/timeshift-convos>
-    - 20+ year professional programming career
-    - 30+ projects lead
+### 👩‍🏫 Instructor, Applied Computer Science
+- Teaching at Dominican University of California
+- Complete your BSCS degree in under 3 years! Learn more at [dominican.edu](dominican.edu)
+- 100% of our course materials are Open Source: [@Tech-at-DU](https://github.com/tech-at-DU)
+
+### :gear: Inventor & Innovator
+- 2015: patent to interactive live streaming to the world: <https://bit.ly/timeshift-convos>
+- 20+ year professional programming career
+- 30+ projects lead
