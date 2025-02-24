@@ -1,4 +1,6 @@
-> 💬 _**"The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures."**_  - Frederick P. Brooks
+> 💬 _**"The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination.
+>
+> Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures."**_  - Frederick P. Brooks
 
 ## 👋 Hey, I'm Dani
 [![github](https://img.shields.io/github/followers/droxey?logo=github&style=flat)](https://github.com/droxey?tab=followers)
@@ -10,6 +12,6 @@
 - 100% of our course materials are Open Source: [@Tech-at-DU](https://github.com/tech-at-DU)
 
 ### :gear: Inventor & Innovator
-- 2015: patent to interactive live streaming to the world: <https://bit.ly/timeshift-convos>
+- 2015: patent to introduce live streaming to the world: <https://bit.ly/timeshift-convos>
 - 20+ year professional programming career
 - 30+ projects lead
