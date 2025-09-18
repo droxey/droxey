@@ -1,4 +1,4 @@
-### <p align="center"><em>The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.</em><br><br>💬 Frederick P. Brooks</p>
+### <p align="center"><em>&OpenCurlyDoubleQuote;The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.&CloseCurlyDoubleQuote;</em><br>💬 Frederick P. Brooks</p>
 
 # 👋 Hey, I'm Dani
 [![github](https://img.shields.io/github/followers/droxey?logo=github&style=flat)](https://github.com/droxey?tab=followers)
