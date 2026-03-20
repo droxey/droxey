@@ -11,6 +11,7 @@
 ## / signal
 
 **Professor of Applied Computer Science · Patent-Holding Inventor · Software Engineer**  
+
 I build technical systems in the real world, then teach other people how to build them too.
 
 20+ years shipping software across product, infrastructure, and client systems. Nearly a decade teaching full-stack development, data, and applied AI through live courses, labs, workshops, and debugging-heavy technical coaching. Built practical AI workflows for grading, code review, and curriculum support; led product and engineering as a technical founder; designed learning systems that make hard things buildable. 
