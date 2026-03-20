@@ -5,7 +5,6 @@
 ---
 
 # 👨‍🎤 DANI ROXBERRY
-`boston, ma`  \\  `dani@bitoriented.com`  
 [linkedin](https://www.linkedin.com/in/droxey/)  ·  [github](https://github.com/droxey/)  ·  [portfolio](https://droxey.com)
 
 ## / signal
