@@ -1,42 +1,30 @@
----
+# 👨‍🎤 `/droxey`
 
-### <p align="center"><em>&OpenCurlyDoubleQuote;The programmer, like the poet, works only slightly removed from pure thought-stuff. He builds his castles in the air, from air, creating by exertion of the imagination. Few media of creation are so flexible, so easy to polish and rework, so readily capable of realizing grand conceptual structures.&CloseCurlyDoubleQuote;</em><br>💬 Frederick P. Brooks</p>
+<p align="center" style="font-weight: bold; font-size: 18px;">
+    <code>Founder&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;Software Engineer&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;CS Professor&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;Patent-Holding Inventor</code>
+  <br>
+  <strong>
+    <a href="https://www.linkedin.com/in/droxey/" target="_blank">LinkedIn Profile</a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+    <a href="https://droxey.com" target="_blank">Portfolio Website</a>
+  </strong>
+</p>
 
----
+## `/favquote`
 
-# 👨‍🎤 DANI ROXBERRY
-[linkedin](https://www.linkedin.com/in/droxey/)  ·  [github](https://github.com/droxey/)  ·  [portfolio](https://droxey.com)
+> **_The programmer, like the poet, works only slightly removed from pure thought-stuff_**. He builds his castles in the air, from air, creating by exertion of the imagination. 💬 Frederick P. Brooks
 
-## / signal
+## `/whoami`
 
-**Professor of Applied Computer Science · Patent-Holding Inventor · Software Engineer**  
+I build technical systems in the real world, then teach other people how to build them, too.
 
-I build technical systems in the real world, then teach other people how to build them too.
+## `/proof`
 
-20+ years shipping software across product, infrastructure, and client systems. Nearly a decade teaching full-stack development, data, and applied AI through live courses, labs, workshops, and debugging-heavy technical coaching. Built practical AI workflows for grading, code review, and curriculum support; led product and engineering as a technical founder; designed learning systems that make hard things buildable. 
+- **projects**: check out [what I work on](https://github.com/stars/droxey/lists/projects)
+- **patent:** `US20140199046` — *[Conversations on Time-Shifted Content](https://bit.ly/timeshift-convo)*
+- **teaching:** designed over [15 college-level courses](https://github.com/stars/droxey/lists/courses); delivered thousands of individual classes, labs, & workshops; used code to reduce lesson plan creation time & student feedback turnaround by `80%` 
 
----
+## `/stack`
 
-## / proof
-
-- **Patent:** `US20140199046` — *Conversations on Time-Shifted Content*
-- **Teaching Scale:** designed `16 courses`; delivered hundreds of labs and workshops
-- **AI Systems:** cut student feedback turnaround by `80%`
-- **Faculty Tooling:** reduced course and lesson creation time by `50%`
-- **Outcomes:** mentored students who later joined Netflix, Meta, Microsoft, Oracle, and Tesla
-
----
-
-## / stack
-
-**ai + agents**  
-prompt engineering, token management, context design, agentic workflows, multi-agent systems, RAG, Claude, OpenClaw
-
-**engineering**  
-Python, Go, JavaScript, Bash, Swift, Objective-C, React, Node.js, APIs, distributed systems, TDD
-
-**data + infra**  
-PostgreSQL, MySQL, MongoDB, SQL Server, DuckDB, Redis, Docker, Linux, Git, Kubernetes
-
-**teaching + leadership**  
-curriculum design, live instruction, labs, workshops, mentoring, debugging coaching, technical strategy
+- **engineering**: Python, Go, JavaScript, Bash, Swift, Objective-C, React, Node.js, APIs, distributed systems, TDD
+- **data + infra**: PostgreSQL, MySQL, MongoDB, SQL Server, DuckDB, Redis, Docker, Linux, Git, Kubernetes
+- **teaching + leadership**: curriculum design, live instruction, labs, workshops, mentoring, debugging coaching, technical strategy
